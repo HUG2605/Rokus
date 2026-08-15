@@ -1,0 +1,13 @@
+Coloca aquí tu video de presentación con el nombre exacto:
+
+    rokus-presentacion.mp4
+
+El sitio lo detectará automáticamente y lo reproducirá en autoplay,
+silenciado y en bucle en la sección "La empresa detrás de cada unidad".
+
+Recomendaciones:
+- Formato: MP4 (códec H.264) para máxima compatibilidad con navegadores.
+- Resolución sugerida: 1920x1080 o 1280x720.
+- Peso recomendado: menor a 25-30 MB para que cargue rápido.
+- Si quieres subtítulos o texto, agrégalos quemados al video, ya que
+  reproduce sin controles visibles hasta que el usuario activa el sonido.
